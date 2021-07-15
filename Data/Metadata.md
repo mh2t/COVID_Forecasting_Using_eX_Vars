@@ -44,7 +44,7 @@ After eliminating the first 44 days, the new size of the time-series is 376 days
 For CLEANED_35_Updated dataset, we train from 2/26/2020 until 10/4/2020 (inclusive) having 222 samples. The test set starts from 10/5/2020 and ends at 3/7/2021 (inclusive) having 154 samples.
 
 ## USCOVID_BY_STATE
-The COVID-19 dataset the United States for each state.-->
+The COVID-19 dataset the United States for each state.
 
 ## USNPI
 This dataset provides the U.S. Covid-19 Government Response Tracker.  
